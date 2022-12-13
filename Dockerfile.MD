@@ -41,3 +41,5 @@ It will list the copied file. <br/>
 
 
 Like this you can test ubuntu OS along with COPY module in docker file
+
+test completed.
